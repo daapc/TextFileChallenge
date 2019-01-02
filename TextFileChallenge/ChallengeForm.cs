@@ -18,6 +18,8 @@ namespace TextFileChallenge
         {
             InitializeComponent();
 
+            users = UserModel.GetUserModelsFromText("StandardDataSet.csv");
+
             WireUpDropDown();
         }
 
@@ -30,6 +32,8 @@ namespace TextFileChallenge
         private void addUserButton_Click(object sender, EventArgs e)
         {
             users.Add(new UserModel { FirstName = firstNameText.Text, LastName = lastNameText.Text, Age = (int)agePicker.Value, IsAlive = isAliveCheckbox.Checked });
+
+            WireUpDropDown();
         }
     }
 }

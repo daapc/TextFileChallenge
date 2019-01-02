@@ -22,3 +22,15 @@ C:\Users\ur2q\Documents\Programming\SkillsDevelopment\CoreyChallenges\TextFileCh
 C:\Users\ur2q\Documents\Programming\SkillsDevelopment\CoreyChallenges\TextFileChallenge\TextFileChallengeStarterCode\TextFileChallenge\obj\Debug\TextFileChallenge.csproj.CoreCompileInputs.cache
 C:\Users\ur2q\Documents\Programming\SkillsDevelopment\CoreyChallenges\TextFileChallenge\TextFileChallengeStarterCode\TextFileChallenge\obj\Debug\TextFileChallenge.exe
 C:\Users\ur2q\Documents\Programming\SkillsDevelopment\CoreyChallenges\TextFileChallenge\TextFileChallengeStarterCode\TextFileChallenge\obj\Debug\TextFileChallenge.pdb
+C:\Users\DAA\Projects\CoreyChallenges\TextFileChallengeFork\TextFileChallenge\bin\Debug\AdvancedDataSet.csv
+C:\Users\DAA\Projects\CoreyChallenges\TextFileChallengeFork\TextFileChallenge\bin\Debug\StandardDataSet.csv
+C:\Users\DAA\Projects\CoreyChallenges\TextFileChallengeFork\TextFileChallenge\bin\Debug\TextFileChallenge.exe.config
+C:\Users\DAA\Projects\CoreyChallenges\TextFileChallengeFork\TextFileChallenge\bin\Debug\TextFileChallenge.exe
+C:\Users\DAA\Projects\CoreyChallenges\TextFileChallengeFork\TextFileChallenge\bin\Debug\TextFileChallenge.pdb
+C:\Users\DAA\Projects\CoreyChallenges\TextFileChallengeFork\TextFileChallenge\obj\Debug\TextFileChallenge.csprojAssemblyReference.cache
+C:\Users\DAA\Projects\CoreyChallenges\TextFileChallengeFork\TextFileChallenge\obj\Debug\TextFileChallenge.ChallengeForm.resources
+C:\Users\DAA\Projects\CoreyChallenges\TextFileChallengeFork\TextFileChallenge\obj\Debug\TextFileChallenge.Properties.Resources.resources
+C:\Users\DAA\Projects\CoreyChallenges\TextFileChallengeFork\TextFileChallenge\obj\Debug\TextFileChallenge.csproj.GenerateResource.cache
+C:\Users\DAA\Projects\CoreyChallenges\TextFileChallengeFork\TextFileChallenge\obj\Debug\TextFileChallenge.csproj.CoreCompileInputs.cache
+C:\Users\DAA\Projects\CoreyChallenges\TextFileChallengeFork\TextFileChallenge\obj\Debug\TextFileChallenge.exe
+C:\Users\DAA\Projects\CoreyChallenges\TextFileChallengeFork\TextFileChallenge\obj\Debug\TextFileChallenge.pdb
